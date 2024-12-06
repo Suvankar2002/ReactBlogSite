@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In lobortis massa vel arcu interdum, eu vulputate nisl malesuada. Proin sed.",
+      "author": "mario",
+      "id": "1"
+    },
+    {
+      "title": "Opening Party!",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In lobortis massa vel arcu interdum, eu vulputate nisl malesuada. Proin sed.",
+      "author": "yoshi",
+      "id": "2"
+    }
+  ]
+}
